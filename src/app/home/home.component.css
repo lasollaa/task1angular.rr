@@ -1,0 +1,22 @@
+.home-section{
+    background-color: #1abc9c;
+}
+.home-content{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin: auto;
+    text-align: center;
+}
+.home-img img{
+    width: 310px;
+}
+p.home-text{
+    font-size: 2.6rem !important ;
+}
+.line{
+    height: 4px;
+    width: 80px;
+}
+i{
+    color: white;
+}
